@@ -16,3 +16,10 @@ int main()
   return 0;
 }
 ```
+
+- [X] Create markdown file
+- [X] Insert header
+- [X] Insert image
+- [X] Insert code
+- [X] Insert tasks
+- [ ] Insert links
